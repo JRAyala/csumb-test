@@ -1,6 +1,10 @@
 Hello this is person 1 changing
 
 hello world
+<<<<<<< HEAD
 David's, your hair is nice
+=======
+Jose, your hair is nice
+>>>>>>> 669956092d1fc819562505613c149625dbe9fd9a
 
 Hello this is person 2
